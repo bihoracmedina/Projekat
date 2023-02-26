@@ -1,0 +1,11 @@
+{
+    "name": "si-projekat",
+    "version": "1.0.0",
+    "description": "CetvrtiProjZd",
+    "main": "script.js",
+    "scripts": {
+    "test": "exit 1"
+    },
+    "author": "medina",
+    "license": "ISC"
+    }
